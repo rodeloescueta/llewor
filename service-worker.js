@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/my-project/precache-manifest.0b03fb4fb0ad0661a4cf277c870516da.js"
+  "/llewor/precache-manifest.ed4d7be9e0c08bfa84af612a5f85c2d3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "template"});
